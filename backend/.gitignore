@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# Optional: local database files (if any)
+*.sqlite
+*.db
+
+# Optional: temporary files
+tmp/
+temp/
